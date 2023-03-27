@@ -4,17 +4,10 @@ body {
     color: #FEFEFE;
     padding: 0;
     margin: 0;
-}
-
-.container {
-    height: 955px;
-    padding: 0;
-    margin: 0;
     display: flex;
     justify-content: center;
     flex-direction: row;
     background-color: #222222;
-    height: 955px;
 }
 
 .column {
